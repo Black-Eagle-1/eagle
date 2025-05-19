@@ -1,47 +1,36 @@
 Detecting Language
+Language: English
 
-Language: Chinese
+Code: en
 
-Code: zh
-
-Score: 1.0
+Score: 0.99
 
 Finding Key Phrases
-
 Key Phrases:
 
-Avengers: Infinity War
+Guardians of the Galaxy
+
+Star-Lord
+
+Rocket Raccoon
+
+Gamora
+
+Groot
+
+Space adventure
+
+Superheroes
+
+Cosmic powers
 
 Thanos
 
-Infinity Stones
-
-Avengers
-
-Iron Man
-
-Captain America
-
-Black Panther
-
-Doctor Strange
-
-Spider-Man
-
-War for the Universe
-
 Analyzing Sentiment
+A positive sentiment based on these scores:
 
-A sentiment based on these scores:
+Positive: 0.87
 
-Positive:
+Neutral: 0.12
 
-The film has generally received positive reception for its grand scale, emotional depth, and the epic battle sequences. Fans praised the way the different characters from various films came together.
-
-Neutral:
-
-Some viewers noted that the movie is dense with plot points and characters, making it challenging to follow at times.
-
-Negative:
-
-A few criticisms centered around the film’s pacing and the abrupt nature of the ending, leaving some feeling unsatisfied with the unresolved plot.
+Negative: 0.01
