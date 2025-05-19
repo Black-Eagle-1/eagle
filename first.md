@@ -1,36 +1,13 @@
-Detecting Language
-Language: English
+There are two files (and their zipped counterparts) associated with 
+this etext:
 
-Code: en
+40.ps - a Postscript file, intended only for printing to a Postscript
+printer.
 
-Score: 0.99
+40-pdf.pdf - a PDF version of the above file, produced with Ghostscript.
 
-Finding Key Phrases
-Key Phrases:
 
-Guardians of the Galaxy
+A text version of 40.ps was attempted, but it was deemed a failure.
+Its lines were unwrapped/unformatted, and there were no blank lines 
+between paragraphs.
 
-Star-Lord
-
-Rocket Raccoon
-
-Gamora
-
-Groot
-
-Space adventure
-
-Superheroes
-
-Cosmic powers
-
-Thanos
-
-Analyzing Sentiment
-A positive sentiment based on these scores:
-
-Positive: 0.87
-
-Neutral: 0.12
-
-Negative: 0.01
